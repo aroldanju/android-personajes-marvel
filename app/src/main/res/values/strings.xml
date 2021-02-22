@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personajes Marvel</string>
+    <string name="unknown_error">¡Ha ocurrido algo inesperado!</string>
+    <string name="error_no_results">No se han encontrado resultados.</string>
+    <string name="retry">Reintentar</string>
+    <string name="comics">Comics</string>
+</resources>
